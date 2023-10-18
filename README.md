@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... saber mais
 - 🌱 I’m currently learning ... to be happy
 - 💞️ I’m looking to collaborate on ... everything possible
-- 📫 How to reach me ... home
+- 📫 How to reach me ... mandando mensagem
 
 <!---
 heneiq/heneiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
