@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heneiq
 - 👀 I’m interested in ... learn more
 - 🌱 I’m currently learning ... to be happy
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... everything possible
 - 📫 How to reach me ... home
 
 <!---
